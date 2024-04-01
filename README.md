@@ -2,7 +2,7 @@ Android Project 5 - *Bit Fit*
 
 Submitted by: **Channacy Un**
 
-**BitFit** is a health metrics app that allows users to track ... diary entries 
+**BitFit** is a health metrics app that allows users to track ... food diary entries 
 
 Time spent: **10** hours spent in total
 
