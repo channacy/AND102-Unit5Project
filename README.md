@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/channacy/AND102_Unit5/blob/starter/Screen_Recording_20240331_221010_FoodDiary-ezgif.com-video-to-gif-converter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/channacy/AND102-Unit5Project/blob/main/Screen_Recording_20240331_234914_FoodDiary-ezgif.com-video-to-gif-converter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
