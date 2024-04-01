@@ -42,7 +42,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Displaying the user input and saving them. 
 
 ## License
 
